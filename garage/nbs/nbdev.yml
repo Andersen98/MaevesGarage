@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "MaevesGarage"
+  site-url: "https://Andersen98.github.io/MaevesGarage"
+  description: "The python module for the MaevesGarage Server. Lots of UwU degenerate kawwiii unitilites."
+  repo-branch: main
+  repo-url: "https://github.com/Andersen98/MaevesGarage"
